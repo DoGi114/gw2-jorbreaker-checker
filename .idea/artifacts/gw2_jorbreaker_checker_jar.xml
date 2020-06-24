@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gw2-jorbreaker-checker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gw2_jorbreaker_checker_jar</output-path>
+    <root id="archive" name="gw2-jorbreaker-checker.jar">
+      <element id="module-output" name="gw2-jorbreaker-checker" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
